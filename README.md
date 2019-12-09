@@ -14,5 +14,5 @@ C# Java Kotlin Go Rust Python PHP TS……
 
 请扫描二维码了解报名方式：
 
-![Image](src)
+<img src=https://raw.githubusercontent.com/ktcto/kt/master/zhishixingqiu.png width=280 />
 
