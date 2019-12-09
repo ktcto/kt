@@ -2,6 +2,8 @@
 
 KT=Key Talent^Key Tech
 
+中台架构 开源总决选
+
 Any language, Any framework
 
 C# Java Kotlin Go Rust Python PHP TS……
@@ -12,7 +14,7 @@ C# Java Kotlin Go Rust Python PHP TS……
 
 ### 报名参赛
 
-请扫描二维码了解报名方式：
+扫描二维码了解详情：
 
 <img src=https://raw.githubusercontent.com/ktcto/kt/master/zhishixingqiu.png width=280 />
 
