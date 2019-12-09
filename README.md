@@ -6,7 +6,7 @@ KT=Key Talent^Key Tech
 
 Any language, Any framework
 
-C# Java Kotlin Go Rust Python PHP TS……
+C# Java Kotlin Go Rust Py PHP TS
 
 ### 2020年2月8号预赛
 ### 2020年3月8号半决赛
